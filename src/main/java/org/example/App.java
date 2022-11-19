@@ -1,7 +1,9 @@
 package org.example;
 import javax.swing.JScrollPane;
 import java.awt.*;
-import java.io.FileInputStream;
+import java.io.*;
+import java.lang.Thread;
+
 import org.alicebot.ab.Bot;
 import org.alicebot.ab.Chat;
 import org.alicebot.ab.History;
@@ -9,28 +11,18 @@ import org.alicebot.ab.MagicBooleans;
 import org.alicebot.ab.MagicStrings;
 import org.alicebot.ab.utils.IOUtils;
 import javax.swing.JFrame;
-import java.io.FileNotFoundException;
 import javax.swing.JButton;
 import java.awt.FlowLayout;
-import java.io.BufferedWriter;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
 import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.FileReader;
 import java.io.IOException;
-import java.io.InputStream;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
-import java.io.OutputStream;
-import java.io.Serializable;
 import java.lang.reflect.Array;
+import java.net.URISyntaxException;
+import java.net.URL;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import javax.swing.JPanel;
 import java.util.Locale;
@@ -42,7 +34,10 @@ import javax.swing.JScrollBar;
 //import java.time.format;
 //import java.time.format.DateTimeFormatter;
 
+
 public class App extends JPanel{
+
+     // no initial slash in file.txt
 
     //fields
     //private JButton reg;
@@ -54,7 +49,7 @@ public class App extends JPanel{
     private static File file = new File("Transcript.txt");
     private static JTextArea chat = new JTextArea(25,30);
     private static JTextField Frankie = new JTextField(40);
-
+    private static URL resourcesPath;
     private static boolean firstTime = true;
     //constructor
     public App() {
@@ -401,6 +396,7 @@ public class App extends JPanel{
 
         String resourcesPath = getResourcesPath();
         System.out.println(resourcesPath);
+
         MagicBooleans.trace_mode = TRACE_MODE;
         final Bot bot = new Bot("super", resourcesPath);
         final Chat chatSession = new Chat(bot);
@@ -644,11 +640,15 @@ public class App extends JPanel{
 	Create Victor Frankenstein tutorial essentially done
 	create button to alternate between Victor and creation
 	*/
+    public BufferedReader getResourceReader(String resName){
+        return new BufferedReader(new InputStreamReader(App.class.getResourceAsStream(resName)));
+    }
 
     public static void main(String args[]) {
         try {
 
             String resourcesPath = getResourcesPath();
+
             System.out.println(resourcesPath);
             System.out.println("Check 2 successful");
             MagicBooleans.trace_mode = TRACE_MODE;
@@ -669,7 +669,9 @@ public class App extends JPanel{
         path = path.substring(0, path.length() - 2);
         System.out.println(path);
         String resourcesPath = path + File.separator + "src" + File.separator + "main" + File.separator + "resources";
+
         return resourcesPath;
     }
+
 
 }
