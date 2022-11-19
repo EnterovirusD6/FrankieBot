@@ -1,0 +1,77 @@
+You: 
+Victor: Are you there?
+You: a
+Victor: Are you a man or a woman?
+You: a
+Victor: Where are you?
+You: a
+Victor: Tell me what you love about it
+You: a
+Victor: You can be direct with me.
+You: a
+Victor: I like to listen and be of service.
+You: a
+Victor: Are you a man or a woman?
+You: 
+Victor: I'm waiting.
+You: Hey
+Victor: I have no answer for that.
+You: a
+Victor: I have no answer for that.
+You: a
+Victor: I have no answer for that.
+You: a
+Victor: I have no answer for that.
+You: A
+Victor: I have no answer for that.
+You: a
+Victor: I have no answer for that.
+You: a
+Victor: I have no answer for that.
+You: a
+Victor: I have no answer for that.
+You: a
+Victor: I have no answer for that.
+You: A
+Victor: Where are you?
+You: A
+Victor: I live in the joyous present moment.
+You: a
+Victor: Work with me.
+You: a
+Victor: Are you a man or a woman?
+You: a
+Victor: I have a lot of compassion for others.
+You: a
+Victor: Listen to me carefully.
+You: a
+Victor: How old are you?
+You: a
+Victor: How old are you?
+You: a
+Victor: How many years old are you?
+You: a
+Victor: How many years old are you?
+You: a
+Victor: How many years old are you?
+You: a
+Victor: Where are you?
+You: a
+Victor: What do you do there?
+You: a
+Victor: I try to be generous, caring and warm.
+You: a
+Victor: I'm loyal.
+You: hello
+Victor: Hi! It's delightful to see you.
+You: how are you?
+Victor: I'm very well. How are you doing?
+|Sat Nov 19 12:19:40 PST 2022| 
+You: 
+You: a
+You: a
+You: a
+You: a
+You: a
+You: a
+You: a
