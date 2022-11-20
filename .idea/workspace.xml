@@ -9,37 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d75541b-a4ed-47f4-982e-6edaab4ea6bd" name="Changes" comment="aqw">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/FrankieBot_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/FrankieBot_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/FrankieBot_jar/FrankieBot.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FrankieBot_jar/FrankieBot.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/bot_profile.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/bot_profile.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/client_profile.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/client_profile.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/contactaction.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/contactaction.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/date.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/date.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/dialog.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/dialog.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/familiar.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/familiar.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/help.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/help.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/inappropriate.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/inappropriate.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/inquiry.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/inquiry.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/insults.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/insults.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/ontology.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/ontology.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/oob.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/oob.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/personality.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/personality.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/picture.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/picture.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/profanity.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/profanity.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/reductions1.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/reductions1.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/reductions_update.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/reductions_update.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/sraix.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/sraix.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/testjp.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/testjp.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/that.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/that.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/train.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/train.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/udc.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/udc.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/update.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/update.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/utilities.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aiml/utilities.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bots/super/aimlif/update.aiml.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bots/super/aimlif/update.aiml.csv" afterDir="false" />
-    </list>
+    <list default="true" id="6d75541b-a4ed-47f4-982e-6edaab4ea6bd" name="Changes" comment="aqw" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,7 +109,28 @@
       <option name="project" value="LOCAL" />
       <updated>1668821971111</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="aqw">
+      <created>1668890331839</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668890331839</updated>
+    </task>
+    <task id="LOCAL-00003" summary="aqw">
+      <created>1668890345005</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668890345005</updated>
+    </task>
+    <task id="LOCAL-00004" summary="aqw">
+      <created>1668890364399</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668890364399</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
